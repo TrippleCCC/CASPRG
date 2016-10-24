@@ -1,4 +1,4 @@
-# CASPRG (CAS Proposal and Reflection Generator
+# CASPRG (CAS Proposal and Reflection Generator)
 A program that helps you create CAS proposals and reflections
 
 #Update Procedure
