@@ -15,3 +15,10 @@ CASPRG 0.00.05 - Latest version
 * Reflections will be implemented soon
 * Text entry is bigger
 * "Proposal", "Reflection", and "Ok" buttons are now more visible for those who have higher resolution screens
+
+#Possible Upcoming Updates
+* Learning Objective Sentence Starters
+* Reflections
+* Spontaneous Proposals
+* Word Document Conversion
+* Save Function
