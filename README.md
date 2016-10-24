@@ -11,7 +11,7 @@ A program that helps you create CAS proposals and reflections
 
 CASPRG 0.00.05 - Latest version
 --------------------------------
-*Only Proposal button works.
-*Reflections will be implemented soon
-*Text entry is bigger
-*"Proposal", "Reflection", and "Ok" buttons are now more visible for those who have higher resolution screens
+* Only Proposal button works.
+* Reflections will be implemented soon
+* Text entry is bigger
+* "Proposal", "Reflection", and "Ok" buttons are now more visible for those who have higher resolution screens
