@@ -10,13 +10,10 @@ A program that creates CAS proposals and reflections
 
 #Current Versions
 
-CASPRG 0.03.06 - Latest version
+CASPRG 0.04.05 - Latest version
 --------------------------------
-* Text entry is bigger with a scroll bar
-* "Proposal", "Reflection", and "Ok" buttons are now more visible for those who have higher resolution screens
-* Fixed Spelling Mistake
-* Added Reflections Option
-* Answers can be temperarily saved when "Ok" button is pressed
+* Spontanous Proposals have been added
+* Grammatical and Logical Errors Fixed
 
 #Possible Upcoming Updates
 * Learning Objective Sentence Starters
