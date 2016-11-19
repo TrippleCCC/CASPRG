@@ -18,6 +18,6 @@ CASPRG 0.04.05 - Latest version
 #Possible Upcoming Updates
 * Learning Objective Sentence Starters
 * CAS Sentence Starters
-* Spontaneous Proposals
 * Auto-update
 * Document conversion for reflections
+* Improved Back/Menu Function
